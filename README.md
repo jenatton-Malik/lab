@@ -47,6 +47,8 @@ Rebuilt from the ground up into a large ventilated enclosure (plexiglass + 2020 
 
 **Filament dryer** — Sunlu
 
+![3D printers](images/3d_printer.jpeg)
+
 ---
 
 ## 🖥️ Homelab server
@@ -58,15 +60,23 @@ Rebuilt from the ground up into a large ventilated enclosure (plexiglass + 2020 
 | **GPU** | RTX 3060 12 GB |
 | **Storage** | 10 TB HDD + 256 GB SSD (OS) |
 
-Runs local LLMs and AI agents on the GPU, alongside Nextcloud, a NAS, Paperless and Pi-hole.
+![Server](images/server.jpeg)
 
+Runs local LLMs and AI agents on the GPU, alongside Nextcloud, a NAS, Paperless and Pi-hole.
 ---
 
 ## 📈 How it grew
 
-This didn't appear overnight. It started with a couple of red bins, one bench supply and a single monitor.
+This didn't appear overnight. It started with a couple of red bins, one bench supply and a single monitor — everything else was added one piece at a time, usually because a project needed it.
 
-*(dated photos coming here — the lab through the years)*
+<p align="center">
+  <img src="images/lab_19_06_25.jpeg" width="48%">
+  <img src="images/lab_11_01_26.jpeg" width="48%">
+</p>
+<p align="center"><i>June 2025 · January 2026</i></p>
+
+![The lab today](images/lab_current.jpeg)
+<p align="center"><i>Today</i></p>
 
 ---
 
