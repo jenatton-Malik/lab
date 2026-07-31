@@ -78,8 +78,3 @@ This didn't appear overnight. It started with a couple of red bins, one bench su
 ![The lab today](images/lab_current.jpeg)
 <p align="center"><i>Today</i></p>
 
----
-
-## 🗺️ What's next
-
-- [ ] *(add wishlist items as they come)*
