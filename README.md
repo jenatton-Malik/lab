@@ -63,6 +63,7 @@ Rebuilt from the ground up into a large ventilated enclosure (plexiglass + 2020 
 ![Server](images/server.jpeg)
 
 Runs local LLMs and AI agents on the GPU, alongside Nextcloud, a NAS, Paperless and Pi-hole.
+
 ---
 
 ## 📈 How it grew
