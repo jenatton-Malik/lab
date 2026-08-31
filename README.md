@@ -12,6 +12,7 @@
 |---|---|---|
 | **Oscilloscope** | Hantek DSO2D15 | General debugging, though limited by 8-bit resolution (12 mV noise floor) and 2 channels for multi-axis measurements on power electronics and motor control |
 | **Bench multimeter** | OWON XDM1041 (55,000 counts) | Precise measurements without another handheld cluttering the desk |
+| **Bench power supply** | ZUZIZAO SPPS3010-2KD | High Power, 2CHA, SER/PAR, OVP and OCP, just perfect |
 | **Bench power supply** | Jesverty 30 V / 10 A | Low ripple, precise, and it runs anything I need to test |
 | **LCR meter** | FNIRSI LC1020E | High-precision component characterisation |
 | **Logic analyser** | Alientek DL16 — 250 MHz, 16 ch | Serious digital debugging (I²C, UART, SPI) |
