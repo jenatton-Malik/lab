@@ -75,8 +75,9 @@ This didn't appear overnight. It started with a couple of red bins, one bench su
 <p align="center">
   <img src="images/lab_19_06_25.jpeg" width="48%">
   <img src="images/lab_11_01_26.jpeg" width="48%">
+  <img src="june_2026_lab" width="48%">
 </p>
-<p align="center"><i>June 2025 · January 2026</i></p>
+<p align="center"><i>June 2025 · January 2026 · June 2026</i></p>
 
 ![The lab today](images/lab_current.jpeg)
 <p align="center"><i>Today</i></p>
